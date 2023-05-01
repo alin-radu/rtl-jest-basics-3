@@ -10,7 +10,7 @@
 
 ### II. GITHUB
 
-- git@github.com:alin-radu/react-testing-rtl-jest-basics-3.git
+- git@github.com:alin-radu/rtl-jest-basics-3.git
 
 ### III. APP
 
